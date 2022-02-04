@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;800&family=Lobster&family=Pacifico&display=swap');
+
+
+body{
+    background-color: antiquewhite;
+}
+
+.title{
+   text-decoration: solid underline;
+   color: rgb(226, 43, 113);
+}
+#hero-text{
+    color: rgb(201, 9, 9);
+    letter-spacing: 2px;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+
+li{
+    font-style: italic;
+    color: rgb(139, 0, 53);
+}
+
+
+.destination{
+    color: rgb(4, 0, 255);
+}
+
+
+
+.description{
+    font-size: 16px;
+}
